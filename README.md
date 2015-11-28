@@ -6,11 +6,12 @@ They have all been created with *_a lot of_* loudness in mind. They are using fa
 
 ### Presets List
 
-* Fillmore Bass : Dense, very loud, yet very punchy!
- * FM (Normal), HD (Normal), HD (Aggressive), HD (aacPlus optimized)
+* Fillmore Bass : Very dense, very loud, yet very punchy! 
+ * As the name implies, it focus on giving a powerful low-end sound.
+   * FM (Standard), HD (Standard), HD (Aggressive), HD (aacPlus optimized)
 * Red Toasty : Loud and very airy, very consistent sound.
- * HD (Normal)
+ * HD (Standard)
 * Orange Bridge : Loud and airy sound, yet retaining dynamics and punch.
- * HD (Normal) 
-* Blue Strike : Powerful, yet more relaxed sound than previous presets listed here
- * HD (Normal) 
+ * HD (Standard) 
+* Blue Strike : Dense.
+ * HD (Standard) 
